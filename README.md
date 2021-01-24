@@ -23,7 +23,8 @@ XLM Memo ID: 3556957568
 - https://lbry.tv/@Print2A:1
 - lbry://@Print2A:1
 - http://mega.print2a.com
-- http://dropbox.print2a.com (includes repo like this
+- http://dropbox.print2a.com (includes repo like this)
+- http://drive.print2a.com
 - rsync is enabled on the VPS use rsync://beta.print2a.com:1776 to connect with the client (beta is temporary and will revert to normal domain when site is ready)
 
 ### Models to small?
